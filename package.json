@@ -1,0 +1,14 @@
+{
+  "name": "node-todo-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.17.1",
+    "mongoose": "^8.1.0",
+    "nodemon": "^3.0.3"
+  }
+}
